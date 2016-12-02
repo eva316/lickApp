@@ -1,0 +1,35 @@
+/* Empty. Add your own CSS if you like */
+.mainH1 {
+    font-family: serif;
+    padding-top: 50px;
+}
+
+.discussionBox {
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+
+.background {
+   /*option 1 background-color: #f2f2f2;   */ 
+    background-color: lightyellow;
+
+}
+
+.titleBar {
+    
+}
+
+.date {
+    /* option 1 color: skyblue; */
+    padding-left: 10px;
+    color: gold;
+}
+
+.title {
+    padding-left: 10px;
+    padding-top: 5px;
+   /* option 1 color: #333333; */
+    color: #262626;
+}

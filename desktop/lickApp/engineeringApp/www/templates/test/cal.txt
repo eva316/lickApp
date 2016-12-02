@@ -1,0 +1,3073 @@
+Events
+------
+
+Summary:     Frosh Family Picnic
+Start:       2016-09-17 12:00:00-07:00
+End:         2016-09-17 15:00:00-07:00
+Location:    LWHS campus
+
+Summary:     Senior Family BBQ
+Start:       2016-09-18 12:00:00-07:00
+End:         2016-09-18 15:00:00-07:00
+Location:    LWHS campus
+
+Summary:     DAY 3
+Start:       2016-09-19
+End:         2016-09-20
+
+Summary:     Community Meeting
+Description: Class Rep Elections
+Start:       2016-09-19 09:50:00-07:00
+End:         2016-09-19 10:30:00-07:00
+Location:    Room C, Gym, Theatre, Library
+
+Summary:     DAY 4
+Start:       2016-09-20
+End:         2016-09-21
+
+Summary:     Photo Day Makeups
+Start:       2016-09-20 08:00:00-07:00
+End:         2016-09-20 14:00:00-07:00
+Location:    Bothin Gymnasium
+
+Summary:     Miranda Lux Reception
+Start:       2016-09-20 18:30:00-07:00
+End:         2016-09-20 20:30:00-07:00
+Location:    Off campus
+
+Summary:     DAY 5
+Start:       2016-09-21
+End:         2016-09-22
+
+Summary:     Tutorial/Frosh Rotation
+Start:       2016-09-21 09:50:00-07:00
+End:         2016-09-21 10:30:00-07:00
+Location:    Room C & Room 11
+
+Summary:     College Financial Aid Workshop for Parents
+Start:       2016-09-21 18:00:00-07:00
+End:         2016-09-21 20:00:00-07:00
+Location:    Room C
+
+Summary:     DAY 6
+Start:       2016-09-22
+End:         2016-09-23
+
+Summary:     DAY 7
+Start:       2016-09-23
+End:         2016-09-24
+
+Summary:     Club Fair
+Start:       2016-09-23 11:50:00-07:00
+End:         2016-09-23 12:35:00-07:00
+
+Summary:     ASIA Club Movie Night
+Start:       2016-09-23 18:15:00-07:00
+End:         2016-09-23 20:30:00-07:00
+Location:    Room C
+
+Summary:     Asian American Family Picnic
+Description: Louis Sutter Playground, SF
+Start:       2016-09-25 12:00:00-07:00
+End:         2016-09-25 15:00:00-07:00
+Location:    Off campus
+
+Summary:     DAY 8
+Start:       2016-09-26
+End:         2016-09-27
+
+Summary:     Class Meetings
+Start:       2016-09-26 09:50:00-07:00
+End:         2016-09-26 10:30:00-07:00
+Location:    Theatre and Gym
+
+Summary:     DAY 1, ROT. 4
+Start:       2016-09-27
+End:         2016-09-28
+
+Summary:     Class Meetings
+Start:       2016-09-27 09:50:00-07:00
+End:         2016-09-27 10:30:00-07:00
+Location:    Gym and Room C
+
+Summary:     Frosh Parent Reception
+Description: An evening with Dean Yin and the College Counseling Team
+Start:       2016-09-27 17:30:00-07:00
+End:         2016-09-27 20:00:00-07:00
+Location:    Cafeteria
+
+Summary:     DAY 2
+Start:       2016-09-28
+End:         2016-09-29
+
+Summary:     Tutorial/Frosh Rotation
+Start:       2016-09-28 09:50:00-07:00
+End:         2016-09-28 10:30:00-07:00
+
+Summary:     DAY 3
+Start:       2016-09-29
+End:         2016-09-30
+
+Summary:     DAY 4, SPECIAL SCHEDULE
+Description: F Block&#8212;8:30-9:35amG Block&#8212;9:40-10:45amAssembly&#8212;10:55-11:55Lunch&#8212;12:00-12:50H Block&#8212;12:55-2:00pmE Block&#8212;2:10-3:15pm
+Start:       2016-09-30
+End:         2016-10-01
+
+Summary:     Pomeroy Family Service Event
+Start:       2016-10-01
+End:         2016-10-02
+
+Summary:     LGBTQ Family Picnic
+Start:       2016-10-02 12:00:00-07:00
+End:         2016-10-02 15:00:00-07:00
+Location:    Off campus
+
+Summary:     DAY 5
+Start:       2016-10-03
+End:         2016-10-04
+
+Summary:     Community Meeting
+Start:       2016-10-03 09:50:00-07:00
+End:         2016-10-03 10:30:00-07:00
+Location:    Bothin Gymnasium
+
+Summary:     DAY 6, PPP SCHEDULE
+Start:       2016-10-04
+End:         2016-10-05
+
+Summary:     PPP Hours
+Start:       2016-10-04 12:45:00-07:00
+End:         2016-10-04 15:20:00-07:00
+
+Summary:     DAY 7, PPP SCHEDULE
+Start:       2016-10-05
+End:         2016-10-06
+
+Summary:     PPP Hours
+Start:       2016-10-05 12:45:00-07:00
+End:         2016-10-05 15:20:00-07:00
+
+Summary:     DAY 8
+Start:       2016-10-06
+End:         2016-10-07
+
+Summary:     Sophomore Parent Evening
+Description: What to Expect in Sophomore Year with Dean Yin
+Start:       2016-10-06 17:30:00-07:00
+End:         2016-10-06 18:45:00-07:00
+Location:    McCullough Library
+
+Summary:     Finding the Right College Fit
+Description: for Sophomores, Juniors, and Parents/Guardians
+Start:       2016-10-06 19:00:00-07:00
+End:         2016-10-06 21:00:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 1, ROT. 5, FLIP SCHEDULE
+Start:       2016-10-07
+End:         2016-10-08
+
+Summary:     TGIF
+Start:       2016-10-07 11:10:00-07:00
+End:         2016-10-07 12:35:00-07:00
+
+Summary:     Howth Party
+Start:       2016-10-07 20:00:00-07:00
+End:         2016-10-07 23:00:00-07:00
+Location:    Bothin Gymnasium
+
+Summary:     DAY 2
+Start:       2016-10-10
+End:         2016-10-11
+
+Summary:     Community Meeting
+Start:       2016-10-10 09:50:00-07:00
+End:         2016-10-10 10:30:00-07:00
+
+Summary:     DAY 3
+Start:       2016-10-11
+End:         2016-10-12
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Description: Yom Kippur
+Start:       2016-10-12
+End:         2016-10-13
+
+Summary:     YOM KIPPUR
+Start:       2016-10-12
+End:         2016-10-13
+
+Summary:     DAY 4
+Start:       2016-10-13
+End:         2016-10-14
+
+Summary:     DAY 5, FLIP SCHEDULE
+Start:       2016-10-14
+End:         2016-10-15
+
+Summary:     Advising
+Start:       2016-10-14 11:10:00-07:00
+End:         2016-10-14 11:50:00-07:00
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-15
+End:         2016-10-16
+
+Summary:     PSAT
+Start:       2016-10-15 08:00:00-07:00
+End:         2016-10-15 15:00:00-07:00
+Location:    Gym, Theatre, Rooms C & 11
+
+Summary:     Sophomore/Junior Family BBQ
+Start:       2016-10-15 12:00:00-07:00
+End:         2016-10-15 15:00:00-07:00
+Location:    LWHS campus
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-16
+End:         2016-10-17
+
+Summary:     COMMENT WRITING DAY
+Start:       2016-10-17
+End:         2016-10-18
+
+Summary:     STUDENT HOLIDAY/OFFICES OPEN
+Description: No School for Students Comment Writing Day
+Start:       2016-10-17
+End:         2016-10-18
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-17
+End:         2016-10-18
+
+Summary:     COMMENT WRITING DAY
+Start:       2016-10-18
+End:         2016-10-19
+
+Summary:     STUDENT HOLIDAY/OFFICES OPEN
+Description: No School for Students Comment Writing Day
+Start:       2016-10-18
+End:         2016-10-19
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-18
+End:         2016-10-19
+
+Summary:     Fall Theatre Tech Day
+Start:       2016-10-18 10:00:00-07:00
+End:         2016-10-18 18:00:00-07:00
+
+Summary:     DAY 6
+Start:       2016-10-19
+End:         2016-10-20
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-19
+End:         2016-10-20
+
+Summary:     DAY 7
+Start:       2016-10-20
+End:         2016-10-21
+
+Summary:     Homework Free Weekend for Seniors
+Start:       2016-10-20
+End:         2016-10-21
+
+Summary:     DAY 8
+Start:       2016-10-21
+End:         2016-10-22
+
+Summary:     DAY 1, ROT. 6
+Start:       2016-10-24
+End:         2016-10-25
+
+Summary:     DAY 2
+Start:       2016-10-25
+End:         2016-10-26
+
+Summary:     DAY 3, FLIP SCHEDULE
+Start:       2016-10-26
+End:         2016-10-27
+
+Summary:     Advising One on Ones
+Start:       2016-10-26 11:10:00-07:00
+End:         2016-10-26 11:50:00-07:00
+
+Summary:     SFMTA Meeting
+Start:       2016-10-26 17:00:00-07:00
+End:         2016-10-26 19:30:00-07:00
+Location:    Room C
+
+Summary:     DAY 4
+Start:       2016-10-27
+End:         2016-10-28
+
+Summary:     DAY 5, FLIP SCHEDULE
+Start:       2016-10-28
+End:         2016-10-29
+
+Summary:     Alumni Reunion Weekend
+Description: Save the date and stay tuned for more details.
+Start:       2016-10-28 09:00:00-07:00
+End:         2016-10-28 17:00:00-07:00
+Location:    LWHS campus
+
+Summary:     Advising One on Ones
+Start:       2016-10-28 11:10:00-07:00
+End:         2016-10-28 11:50:00-07:00
+
+Summary:     Peer Connect
+Start:       2016-10-28 11:50:00-07:00
+End:         2016-10-28 12:35:00-07:00
+Location:    Gym
+
+Summary:     Fall Theatre Tech Day
+Start:       2016-10-29 10:00:00-07:00
+End:         2016-10-29 18:00:00-07:00
+
+Summary:     Golden Tigers Celebration
+Start:       2016-10-29 11:00:00-07:00
+End:         2016-10-29 13:00:00-07:00
+Location:    Bothin Gymnasium
+
+Summary:     Alumni Reunion Weekend
+Start:       2016-10-29 12:00:00-07:00
+End:         2016-10-29 21:00:00-07:00
+Location:    LWHS campus
+
+Summary:     DAY 6
+Start:       2016-10-31
+End:         2016-11-01
+
+Summary:     Community Meeting
+Start:       2016-10-31 09:50:00-07:00
+End:         2016-10-31 10:30:00-07:00
+
+Summary:     Fall Play Rehearsal
+Start:       2016-10-31 15:30:00-07:00
+End:         2016-10-31 20:15:00-07:00
+
+Summary:     DAY 7
+Start:       2016-11-01
+End:         2016-11-02
+
+Summary:     Class Meetings
+Description: 9th and 11th grades
+Start:       2016-11-01 09:50:00-07:00
+End:         2016-11-01 10:30:00-07:00
+
+Summary:     Fall Play Rehearsal
+Start:       2016-11-01 15:30:00-07:00
+End:         2016-11-01 20:15:00-07:00
+
+Summary:     DAY 8
+Start:       2016-11-02
+End:         2016-11-03
+
+Summary:     Class Meetings
+Description: 10th and 12th grades
+Start:       2016-11-02 09:50:00-07:00
+End:         2016-11-02 10:30:00-07:00
+
+Summary:     Fall Play Rehearsal
+Start:       2016-11-02 15:30:00-07:00
+End:         2016-11-02 20:15:00-07:00
+
+Summary:     DAY 1, ROT. 7
+Start:       2016-11-03
+End:         2016-11-04
+
+Summary:     Fall Play, Opening
+Start:       2016-11-03 19:30:00-07:00
+End:         2016-11-03 21:30:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 2, FLIP SCHEDULE
+Start:       2016-11-04
+End:         2016-11-05
+
+Summary:     Advising
+Start:       2016-11-04 11:10:00-07:00
+End:         2016-11-04 11:50:00-07:00
+
+Summary:     Fall Play, Gala
+Start:       2016-11-04 19:30:00-07:00
+End:         2016-11-04 21:30:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     Fall Play, Matinee
+Start:       2016-11-05 15:00:00-07:00
+End:         2016-11-05 17:00:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 3
+Start:       2016-11-07
+End:         2016-11-08
+
+Summary:     Advising One on Ones
+Start:       2016-11-07 09:50:00-08:00
+End:         2016-11-07 10:30:00-08:00
+
+Summary:     Winter Sports Tryouts
+Start:       2016-11-07 15:30:00-08:00
+End:         2016-11-07 18:00:00-08:00
+Location:    LWHS & CCSF
+
+Summary:     DAY 4
+Start:       2016-11-08
+End:         2016-11-09
+
+Summary:     College Care Packages
+Start:       2016-11-08 11:50:00-08:00
+End:         2016-11-08 12:35:00-08:00
+
+Summary:     DAY 5
+Start:       2016-11-09
+End:         2016-11-10
+
+Summary:     College Care Packages
+Start:       2016-11-09 11:50:00-08:00
+End:         2016-11-09 12:35:00-08:00
+
+Summary:     On the Hill
+Description: On the Hill&#160;is a performance that&#160;tells the story of the impact that the death of Alex Nieto - at the hands of the SFPD -&#160; has had on youth of color residing in SF neighborhoods that are currently being gentrified.
+Start:       2016-11-09 18:30:00-08:00
+End:         2016-11-09 21:00:00-08:00
+Location:    Theatre
+
+Summary:     DAY 6
+Start:       2016-11-10
+End:         2016-11-11
+
+Summary:     College Care Packages
+Start:       2016-11-10 11:50:00-08:00
+End:         2016-11-10 12:35:00-08:00
+
+Summary:     Fall Sports Banquet
+Start:       2016-11-10 17:30:00-08:00
+End:         2016-11-10 19:30:00-08:00
+Location:    Gym and Main Building
+
+Summary:     DAY 7, FLIP SCHEDULE
+Start:       2016-11-11
+End:         2016-11-12
+
+Summary:     DAY 8
+Start:       2016-11-14
+End:         2016-11-15
+
+Summary:     Community Meeting
+Start:       2016-11-14 09:50:00-08:00
+End:         2016-11-14 10:30:00-08:00
+
+Summary:     Music Rehearsal
+Start:       2016-11-14 15:30:00-08:00
+End:         2016-11-14 18:00:00-08:00
+
+Summary:     Winter Sports Kickoff
+Start:       2016-11-14 17:30:00-08:00
+End:         2016-11-14 19:00:00-08:00
+Location:    Gym and Main Building
+
+Summary:     DAY 1, ROT. 8, PPP SCHEDULE
+Start:       2016-11-15
+End:         2016-11-16
+
+Summary:     PPP Hours
+Start:       2016-11-15 12:45:00-08:00
+End:         2016-11-15 15:20:00-08:00
+Location:    Rooms 1-9
+
+Summary:     Music Rehearsal
+Start:       2016-11-15 15:30:00-08:00
+End:         2016-11-15 18:00:00-08:00
+
+Summary:     DAY 2, PPP SCHEDULE
+Start:       2016-11-16
+End:         2016-11-17
+
+Summary:     PPP Hours
+Start:       2016-11-16 12:45:00-08:00
+End:         2016-11-16 15:20:00-08:00
+Location:    Rooms 1-9
+
+Summary:     Music Rehearsal
+Start:       2016-11-16 15:30:00-08:00
+End:         2016-11-16 18:00:00-08:00
+
+Summary:     DAY 3
+Start:       2016-11-17
+End:         2016-11-18
+
+Summary:     Music Rehearsal
+Start:       2016-11-17 15:30:00-08:00
+End:         2016-11-17 18:00:00-08:00
+
+Summary:     Nuts & Bolts of College Admissions
+Description: for Juniors and Parents
+Start:       2016-11-17 18:00:00-08:00
+End:         2016-11-17 20:00:00-08:00
+Location:    Room C
+
+Summary:     DAY 4
+Start:       2016-11-18
+End:         2016-11-19
+
+Summary:     Advising
+Start:       2016-11-18 11:10:00-08:00
+End:         2016-11-18 11:50:00-08:00
+
+Summary:     Peer Connect
+Start:       2016-11-18 11:50:00-08:00
+End:         2016-11-18 12:35:00-08:00
+
+Summary:     Music Concert
+Start:       2016-11-18 19:30:00-08:00
+End:         2016-11-18 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     PB&J Family Service Event
+Start:       2016-11-19
+End:         2016-11-20
+
+Summary:     DAY 5
+Start:       2016-11-21
+End:         2016-11-22
+
+Summary:     Community Meeting
+Start:       2016-11-21 09:50:00-08:00
+End:         2016-11-21 10:30:00-08:00
+
+Summary:     Dance Rehearsal
+Start:       2016-11-21 15:30:00-08:00
+End:         2016-11-21 18:00:00-08:00
+
+Summary:     DAY 6
+Start:       2016-11-22
+End:         2016-11-23
+
+Summary:     Generations Day
+Start:       2016-11-22 09:00:00-08:00
+End:         2016-11-22 11:40:00-08:00
+Location:    Ann Maisel Cafe
+
+Summary:     Dance Rehearsal
+Start:       2016-11-22 15:30:00-08:00
+End:         2016-11-22 18:00:00-08:00
+
+Summary:     FALL SEMESTER BREAK
+Start:       2016-11-23
+End:         2016-11-26
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2016-11-23
+End:         2016-11-26
+
+Summary:     DAY 7
+Start:       2016-11-28
+End:         2016-11-29
+
+Summary:     Class Meetings
+Description: 10th and 12th grade
+Start:       2016-11-28 09:50:00-08:00
+End:         2016-11-28 10:30:00-08:00
+
+Summary:     Dance Rehearsal
+Start:       2016-11-28 15:30:00-08:00
+End:         2016-11-28 18:00:00-08:00
+
+Summary:     DAY 8
+Start:       2016-11-29
+End:         2016-11-30
+
+Summary:     Class Meetings
+Description: 9th and 11th grade
+Start:       2016-11-29 09:50:00-08:00
+End:         2016-11-29 10:30:00-08:00
+
+Summary:     Dance Rehearsal
+Start:       2016-11-29 15:30:00-08:00
+End:         2016-11-29 18:00:00-08:00
+
+Summary:     DAY 1, ROT. 9
+Start:       2016-11-30
+End:         2016-12-01
+
+Summary:     Dance Rehearsal
+Start:       2016-11-30 15:30:00-08:00
+End:         2016-11-30 18:00:00-08:00
+
+Summary:     DAY 2
+Start:       2016-12-01
+End:         2016-12-02
+
+Summary:     Dance Rehearsal
+Start:       2016-12-01 15:30:00-08:00
+End:         2016-12-01 18:00:00-08:00
+
+Summary:     DAY 3, FLIP SCHEDULE
+Start:       2016-12-02
+End:         2016-12-03
+
+Summary:     Advising
+Start:       2016-12-02 11:10:00-08:00
+End:         2016-12-02 11:50:00-08:00
+
+Summary:     Admissions Affinity Social
+Start:       2016-12-02 17:30:00-08:00
+End:         2016-12-02 18:30:00-08:00
+
+Summary:     Dance Concert
+Start:       2016-12-02 19:30:00-08:00
+End:         2016-12-02 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     Dance Concert
+Start:       2016-12-03 19:30:00-08:00
+End:         2016-12-03 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 4
+Start:       2016-12-05
+End:         2016-12-06
+
+Summary:     Community Meeting
+Start:       2016-12-05 09:50:00-08:00
+End:         2016-12-05 10:30:00-08:00
+
+Summary:     Center Study Break
+Description: Lunch
+Start:       2016-12-05 11:50:00-08:00
+End:         2016-12-05 12:35:00-08:00
+Location:    The Center
+
+Summary:     DAY 5
+Start:       2016-12-06
+End:         2016-12-07
+
+Summary:     Center Study Break
+Description: Lunch
+Start:       2016-12-06 11:50:00-08:00
+End:         2016-12-06 12:35:00-08:00
+Location:    The Center
+
+Summary:     DAY 6, FLIP SCHEDULE
+Start:       2016-12-07
+End:         2016-12-08
+
+Summary:     Assembly
+Start:       2016-12-07 11:10:00-08:00
+End:         2016-12-07 11:50:00-08:00
+
+Summary:     Center Study Break
+Description: Lunch
+Start:       2016-12-07 11:50:00-08:00
+End:         2016-12-07 12:35:00-08:00
+Location:    The Center
+
+Summary:     DAY 7
+Start:       2016-12-08
+End:         2016-12-09
+
+Summary:     SDLC/POCC Conference
+Description: NAIS Student Diversity Leadership Conference (SDLC) & NAIS People of Color Conference (POCC)
+Start:       2016-12-08
+End:         2016-12-09
+Location:    Off campus
+
+Summary:     Center Study Break
+Description: Lunch
+Start:       2016-12-08 11:50:00-08:00
+End:         2016-12-08 12:35:00-08:00
+Location:    The Center
+
+Summary:     DAY 8
+Start:       2016-12-09
+End:         2016-12-10
+
+Summary:     SDLC/POCC Conference
+Description: NAIS Student Diversity Leadership Conference (SDLC) & NAIS People of Color Conference (POCC)
+Start:       2016-12-09
+End:         2016-12-10
+Location:    Off campus
+
+Summary:     Center Study Break
+Description: Lunch
+Start:       2016-12-09 11:50:00-08:00
+End:         2016-12-09 12:35:00-08:00
+Location:    The Center
+
+Summary:     Collaboration Showcase
+Start:       2016-12-09 19:30:00-08:00
+End:         2016-12-09 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     SDLC/POCC Conference
+Description: NAIS Student Diversity Leadership Conference (SDLC) & NAIS People of Color Conference (POCC)
+Start:       2016-12-10
+End:         2016-12-11
+Location:    Off campus
+
+Summary:     Grades Open for Faculty
+Start:       2016-12-12
+End:         2016-12-13
+
+Summary:     FINALS ASSESSMENT WEEK
+Start:       2016-12-12
+End:         2016-12-17
+
+Summary:     Peer Connect Social
+Start:       2016-12-16 15:00:00-08:00
+End:         2016-12-16 17:00:00-08:00
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2016-12-19
+End:         2016-12-24
+
+Summary:     WINTER BREAK
+Start:       2016-12-19
+End:         2016-12-24
+
+Summary:     Alumni Holiday Party
+Start:       2016-12-22 18:30:00-08:00
+End:         2016-12-22 21:00:00-08:00
+Location:    Off campus
+
+Summary:     Christmas Day
+Start:       2016-12-25
+End:         2016-12-26
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2016-12-26
+End:         2016-12-31
+
+Summary:     WINTER BREAK
+Start:       2016-12-26
+End:         2016-12-31
+
+Summary:     New Year's Day
+Start:       2017-01-01
+End:         2017-01-02
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2017-01-02
+End:         2017-01-03
+
+Summary:     WINTER BREAK
+Start:       2017-01-02
+End:         2017-01-03
+
+Summary:     STUDENT HOLIDAY/OFFICES OPEN
+Start:       2017-01-03
+End:         2017-01-04
+
+Summary:     DAY 1, ROT. 1
+Start:       2017-01-04
+End:         2017-01-05
+
+Summary:     ADD/DROP
+Start:       2017-01-04 07:45:00-08:00
+End:         2017-01-04 07:45:00-08:00
+Location:    Foyer
+
+Summary:     Community Meeting
+Start:       2017-01-04 09:50:00-08:00
+End:         2017-01-04 09:50:00-08:00
+
+Summary:     DAY 2, FLIP SCHEDULE
+Start:       2017-01-05
+End:         2017-01-06
+
+Summary:     ADD/DROP
+Start:       2017-01-05 07:45:00-08:00
+End:         2017-01-05 07:45:00-08:00
+Location:    Foyer
+
+Summary:     Tutorial
+Start:       2017-01-05 11:10:00-08:00
+End:         2017-01-05 11:10:00-08:00
+
+Summary:     Young Alumni Lunch
+Start:       2017-01-05 11:30:00-08:00
+End:         2017-01-05 11:30:00-08:00
+Location:    McCullough Library
+
+Summary:     DAY 3, FLIP SCHEDULE
+Start:       2017-01-06
+End:         2017-01-07
+
+Summary:     Advising One on Ones
+Start:       2017-01-06 09:50:00-08:00
+End:         2017-01-06 09:50:00-08:00
+
+Summary:     DAY 4
+Start:       2017-01-09
+End:         2017-01-10
+
+Summary:     DAY 5
+Start:       2017-01-10
+End:         2017-01-11
+
+Summary:     DAY 6
+Start:       2017-01-11
+End:         2017-01-12
+
+Summary:     DAY 7, FLIP SCHEDULE
+Start:       2017-01-12
+End:         2017-01-13
+
+Summary:     DAY 8
+Start:       2017-01-13
+End:         2017-01-14
+
+Summary:     MLK DAY OF SERVICE
+Start:       2017-01-16
+End:         2017-01-17
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2017-01-16
+End:         2017-01-17
+
+Summary:     FAMILY/ADVISOR CONFERENCES
+Start:       2017-01-17
+End:         2017-01-18
+
+Summary:     OFFICES OPEN
+Start:       2017-01-17
+End:         2017-01-18
+
+Summary:     DAY 1, ROT. 2, SPECIAL SCHEDULE
+Start:       2017-01-18
+End:         2017-01-19
+
+Summary:     DAY 2
+Start:       2017-01-19
+End:         2017-01-20
+
+Summary:     DAY 3, FLIP SCHEDULE
+Start:       2017-01-20
+End:         2017-01-21
+
+Summary:     DAY 4
+Start:       2017-01-23
+End:         2017-01-24
+
+Summary:     DAY 5
+Start:       2017-01-24
+End:         2017-01-25
+
+Summary:     DAY 6
+Start:       2017-01-25
+End:         2017-01-26
+
+Summary:     DAY 7
+Start:       2017-01-26
+End:         2017-01-27
+
+Summary:     DAY 8
+Start:       2017-01-27
+End:         2017-01-28
+
+Summary:     Lunar New Year Celebration
+Start:       2017-01-27 11:50:00-08:00
+End:         2017-01-27 12:35:00-08:00
+Location:    LWHS campus
+
+Summary:     DAY 1, ROT. 3
+Start:       2017-01-30
+End:         2017-01-31
+
+Summary:     DAY 2
+Start:       2017-01-31
+End:         2017-02-01
+
+Summary:     DAY 3
+Start:       2017-02-01
+End:         2017-02-02
+
+Summary:     DAY 4
+Start:       2017-02-02
+End:         2017-02-03
+
+Summary:     DAY 5, FLIP SCHEDULE
+Start:       2017-02-03
+End:         2017-02-04
+
+Summary:     One Acts, Gala
+Start:       2017-02-03 19:30:00-08:00
+End:         2017-02-03 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     One Acts
+Start:       2017-02-04 19:30:00-08:00
+End:         2017-02-04 21:30:00-08:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 6
+Start:       2017-02-06
+End:         2017-02-07
+
+Summary:     DAY 7
+Start:       2017-02-07
+End:         2017-02-08
+
+Summary:     DAY 8
+Start:       2017-02-08
+End:         2017-02-09
+
+Summary:     DAY 1, ROT. 4
+Start:       2017-02-09
+End:         2017-02-10
+
+Summary:     DAY 2, FLIP SCHEDULE
+Start:       2017-02-10
+End:         2017-02-11
+
+Summary:     Winter Formal
+Start:       2017-02-11 20:00:00-08:00
+End:         2017-02-11 23:00:00-08:00
+Location:    Off campus
+
+Summary:     DAY 3
+Start:       2017-02-13
+End:         2017-02-14
+
+Summary:     Spring Sports Kickoff
+Start:       2017-02-13 17:30:00-08:00
+End:         2017-02-13 19:30:00-08:00
+Location:    Gym & Main Building
+
+Summary:     DAY 4
+Start:       2017-02-14
+End:         2017-02-15
+
+Summary:     DAY 5, FLIP SCHEDULE
+Start:       2017-02-15
+End:         2017-02-16
+
+Summary:     STUDENT HOLIDAY/OFFICES OPEN
+Start:       2017-02-16
+End:         2017-02-18
+
+Summary:     Winter Sports Banquet
+Start:       2017-02-16 17:30:00-08:00
+End:         2017-02-16 19:30:00-08:00
+
+Summary:     PRESIDENTS DAY
+Start:       2017-02-20
+End:         2017-02-21
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2017-02-20
+End:         2017-02-21
+
+Summary:     MID-WINTER BREAK
+Start:       2017-02-21
+End:         2017-02-22
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2017-02-21
+End:         2017-02-22
+
+Summary:     DAY 6
+Start:       2017-02-22
+End:         2017-02-23
+
+Summary:     DAY 7
+Start:       2017-02-23
+End:         2017-02-24
+
+Summary:     DAY 8, FLIP SCHEDULE
+Start:       2017-02-24
+End:         2017-02-25
+
+Summary:     Lick-Filmerding
+Start:       2017-02-24 19:00:00-08:00
+End:         2017-02-24 21:00:00-08:00
+Location:    LWHS campus
+
+Summary:     PA Day in the Classroom
+Start:       2017-02-25
+End:         2017-02-26
+Location:    LWHS campus
+
+Summary:     DAY 1, ROT. 5
+Start:       2017-02-27
+End:         2017-02-28
+
+Summary:     DAY 2
+Start:       2017-02-28
+End:         2017-03-01
+
+Summary:     DAY 3
+Start:       2017-03-01
+End:         2017-03-02
+
+Summary:     DAY 4
+Start:       2017-03-02
+End:         2017-03-03
+
+Summary:     DAY 5
+Start:       2017-03-03
+End:         2017-03-04
+
+Summary:     THE event
+Start:       2017-03-04 18:00:00-08:00
+End:         2017-03-04 21:30:00-08:00
+Location:    LWHS campus
+
+Summary:     DAY 6
+Start:       2017-03-06
+End:         2017-03-07
+
+Summary:     DAY 7, PPP SCHEDULE
+Start:       2017-03-07
+End:         2017-03-08
+
+Summary:     DAY 8, PPP SCHEDULE
+Start:       2017-03-08
+End:         2017-03-09
+
+Summary:     DAY 1, ROT. 6
+Start:       2017-03-09
+End:         2017-03-10
+
+Summary:     DAY 2, FLIP SCHEDULE
+Start:       2017-03-10
+End:         2017-03-11
+
+Summary:     COMMENT WRITING DAYS
+Start:       2017-03-13
+End:         2017-03-15
+
+Summary:     DAY 3
+Start:       2017-03-15
+End:         2017-03-16
+
+Summary:     DAY 4, FLIP SCHEDULE
+Start:       2017-03-16
+End:         2017-03-17
+
+Summary:     DAY 5, FLIP SCHEDULE
+Start:       2017-03-17
+End:         2017-03-18
+
+Summary:     DAY 6
+Start:       2017-03-20
+End:         2017-03-21
+
+Summary:     DAY 7
+Start:       2017-03-21
+End:         2017-03-22
+
+Summary:     DAY 8
+Start:       2017-03-22
+End:         2017-03-23
+
+Summary:     DAY 1, ROT. 7
+Start:       2017-03-23
+End:         2017-03-24
+
+Summary:     DAY 2, FLIP SCHEDULE
+Start:       2017-03-24
+End:         2017-03-25
+
+Summary:     DAY 3
+Start:       2017-03-27
+End:         2017-03-28
+
+Summary:     DAY 4
+Start:       2017-03-28
+End:         2017-03-29
+
+Summary:     DAY 5
+Start:       2017-03-29
+End:         2017-03-30
+
+Summary:     DAY 6
+Start:       2017-03-30
+End:         2017-03-31
+
+Summary:     Spring Play, Opening
+Start:       2017-03-30 19:30:00-07:00
+End:         2017-03-30 21:30:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 7, FLIP SCHEDULE
+Start:       2017-03-31
+End:         2017-04-01
+
+Summary:     Spring Play, Gala
+Start:       2017-03-31 19:30:00-07:00
+End:         2017-03-31 21:30:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     Spring Play
+Start:       2017-04-01 14:00:00-07:00
+End:         2017-04-01 16:00:00-07:00
+Location:    Ehrer Theatre
+
+Summary:     DAY 8
+Start:       2017-04-03
+End:         2017-04-04
+
+Summary:     DAY 1, ROT. 8
+Start:       2017-04-04
+End:         2017-04-05
+
+Summary:     DAY 2
+Start:       2017-04-05
+End:         2017-04-06
+
+Summary:     DAY 3
+Start:       2017-04-06
+End:         2017-04-07
+
+Summary:     DAY 4
+Start:       2017-04-07
+End:         2017-04-08
+
+Summary:     SCHOOL HOLIDAY/CAMPUS CLOSED
+Start:       2017-04-10
+End:         2017-04-15
+
+Summary:     SPRING BREAK
+Start:       2017-04-10
+End:         2017-04-15
+
+Summary:     DAY 5
+Start:       2017-04-18
+End:         2017-04-19
+
+Summary:     DAY 6, FLIP SCHEDULE
+Start:       2017-04-19
+End:         2017-04-20
+
+Summary:     DAY 7
+Start:       2017-04-20
+End:         2017-04-21
+
+Summary:     DAY 8, FLIP SCHEDULE
+Start:       2017-04-21
+End:         2017-04-22
+
+Summary:     Class of 2021 Placement Testing
+Start:       2017-04-22
+End:         2017-04-23
+
+Summary:     New Family Welcome
+Start:       2017-04-22
+End:         2017-04-23
+
+Summary:     DAY 1, ROT. 9
+Start:       2017-04-24
+End:         2017-04-25
+
+Summary:     DAY 2
+Start:       2017-04-25
+End:         2017-04-26
+
+Summary:     DAY 3
+Start:       2017-04-27
+End:         2017-04-28
+
+Summary:     DAY 4
+Start:       2017-04-28
+End:         2017-04-29
+
+Summary:     Jazz Concert
+Start:       2017-04-28 19:30:00-07:00
+End:         2017-04-28 21:30:00-07:00
+
+Summary:     Family Community Service
+Start:       2017-04-29
+End:         2017-04-30
+
+Summary:     DAY 5
+Start:       2017-05-01
+End:         2017-05-02
+
+Summary:     DAY 6
+Start:       2017-05-02
+End:         2017-05-03
+
+Summary:     DAY 7
+Start:       2017-05-03
+End:         2017-05-04
+
+Summary:     DAY 8
+Start:       2017-05-04
+End:         2017-05-05
+
+Summary:     DAY 1, ROT. 10, FLIP SCHEDULE
+Start:       2017-05-05
+End:         2017-05-06
+
+Summary:     Senior-13th Parent Reception
+Start:       2017-05-06
+End:         2017-05-07
+
+Summary:     DAY 2
+Start:       2017-05-08
+End:         2017-05-09
+
+Summary:     DAY 3, PPP SCHEDULE
+Start:       2017-05-09
+End:         2017-05-10
+
+Summary:     DAY 4, PPP SCHEDULE
+Start:       2017-05-10
+End:         2017-05-11
+
+Summary:     DAY 5
+Start:       2017-05-11
+End:         2017-05-12
+
+Summary:     Spring Sports Banquet
+Start:       2017-05-11 17:30:00-07:00
+End:         2017-05-11 19:30:00-07:00
+
+Summary:     DAY 6, FLIP SCHEDULE
+Start:       2017-05-12
+End:         2017-05-13
+
+Summary:     Choral/Orchestral Concert
+Start:       2017-05-12 19:30:00-07:00
+End:         2017-05-12 21:30:00-07:00
+
+Summary:     Choral/Orchestral Concert, Gala
+Start:       2017-05-12 19:30:00-07:00
+End:         2017-05-12 21:30:00-07:00
+
+Summary:     DAY 7
+Start:       2017-05-15
+End:         2017-05-16
+
+Summary:     DAY 8
+Start:       2017-05-16
+End:         2017-05-17
+
+Summary:     DAY 1, ROT. 11, FLIP SCHEDULE
+Start:       2017-05-17
+End:         2017-05-18
+
+Summary:     DAY 2
+Start:       2017-05-18
+End:         2017-05-19
+
+Summary:     DAY 3, FLIP SCHEDULE
+Start:       2017-05-19
+End:         2017-05-20
+
+Summary:     Dance Concert
+Start:       2017-05-19 19:30:00-07:00
+End:         2017-05-19 21:30:00-07:00
+
+Summary:     Dance Concert
+Start:       2017-05-20 19:30:00-07:00
+End:         2017-05-20 21:30:00-07:00
+
+Summary:     DAY 4
+Start:       2017-05-22
+End:         2017-05-23
+
+Summary:     DAY 0, SPECIAL SCHEDULE
+Start:       2017-05-23
+End:         2017-05-24
+
+Summary:     Pasta with fresh tomatoes and basil served with focaccia and arugula salad
+Description: Vegetarian option always available
+Start:       2016-09-19
+End:         2016-09-20
+Location:    Ann Maisel Cafe
+
+Summary:     Pork or tofu paprikash with gypsy peppers, served over steamed rice with a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-09-20
+End:         2016-09-21
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled thai spiced chicken or tofu served with jasmine rice and a cucumber carrot salad
+Description: Vegetarian option always available
+Start:       2016-09-21
+End:         2016-09-22
+Location:    Ann Maisel Cafe
+
+Summary:     Tortilla casserole with grilled corn and pasilla peppers served with rancho gordo beans and a cabbage cilantro salad
+Description: Vegetarian option always available
+Start:       2016-09-22
+End:         2016-09-23
+Location:    Ann Maisel Cafe
+
+Summary:     Hamburgers or veggie burgers with herb roasted potatoes
+Description: Vegetarian option always available
+Start:       2016-09-23
+End:         2016-09-24
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with roasted mushrooms and fresh herbs served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-09-26
+End:         2016-09-27
+Location:    Ann Maisel Cafe
+
+Summary:     Herb roasted chicken or portobellos with lemony roasted potatoes and a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-09-27
+End:         2016-09-28
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled miso ginger chicken or tofu served over a seasonal crunchy vegetable salad
+Description: Vegetarian option always available
+Start:       2016-09-28
+End:         2016-09-29
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef sloppy joes served with herb roasted yukon gold potatoes
+Description: Vegetarian option always available
+Start:       2016-09-29
+End:         2016-09-30
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken pozole rojo served with a cabbage-cilantro salad and organic blue corn tortilla chips
+Description: Vegetarian option always available
+Start:       2016-09-30
+End:         2016-10-01
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with arugula pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-03
+End:         2016-10-04
+Location:    Ann Maisel Cafe
+
+Summary:     Pork or tofu paprikash served over steamed rice with a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-10-04
+End:         2016-10-05
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled lemon-herb chicken or portobellos served over a seasonal vegetable salad with green goddess dressing
+Description: Vegetarian option always available
+Start:       2016-10-05
+End:         2016-10-06
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef stroganoff served with buttered noodles and an arugula salad
+Description: Vegetarian option always available
+Start:       2016-10-06
+End:         2016-10-07
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken chili with grilled corn and pinto beans served with organic blue corn tortilla chips, cheese, and sour cream
+Description: Vegetarian option always available
+Start:       2016-10-07
+End:         2016-10-08
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with roasted butternut squash, sage, and goat cheese served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-10
+End:         2016-10-11
+Location:    Ann Maisel Cafe
+
+Summary:     Thai spiced chicken or tofu served with jasmine rice and a cucumber-carrot salad
+Description: Vegetarian option always available
+Start:       2016-10-11
+End:         2016-10-12
+Location:    Ann Maisel Cafe
+
+Summary:     Fattoush salad with grilled chicken or portobellos served with hummus
+Description: Vegetarian option always available
+Start:       2016-10-13
+End:         2016-10-14
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef caldillo served with homemade cornbread
+Description: Vegetarian option always available
+Start:       2016-10-14
+End:         2016-10-15
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with basil-sunflower seed pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-19
+End:         2016-10-20
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled chicken or portobello caesar salad with olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-20
+End:         2016-10-21
+Location:    Ann Maisel Cafe
+
+Summary:     Hamburgers or veggie burgers served with herb roasted yukon gold potatoes
+Description: Vegetarian option always available
+Start:       2016-10-21
+End:         2016-10-22
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with fresh tomatoes and basil served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-24
+End:         2016-10-25
+Location:    Ann Maisel Cafe
+
+Summary:     Tandoori spiced chicken or tofu served with basmati rice, cucumber raita, and a seasonal chutney
+Description: Vegetarian option always available
+Start:       2016-10-25
+End:         2016-10-26
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef picadillo served over steamed rice with a seasonal green salad
+Description: Vegetarian option always available
+Start:       2016-10-26
+End:         2016-10-27
+Location:    Ann Maisel Cafe
+
+Summary:     Lunch menu: BBQ pulled pork or tofu sandwiches served with coleslaw
+Description: Vegetarian option always available
+Start:       2016-10-27
+End:         2016-10-28
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken coconut milk curry served over jasmine rice with a cucumber-carrot salad
+Description: Vegetarian option always available
+Start:       2016-10-28
+End:         2016-10-29
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with kale and roasted garlic pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-10-31
+End:         2016-11-01
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken adobo with steamed rice and a spinach salad
+Description: Vegetarian option always available
+Start:       2016-11-01
+End:         2016-11-02
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled chicken or tofu served over greek salad with hummus and pita bread
+Description: Vegetarian option always available
+Start:       2016-11-02
+End:         2016-11-03
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken tikka masala served with basmati rice and a spinach salad
+Description: Vegetarian option always available
+Start:       2016-11-03
+End:         2016-11-04
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef taco salad served with fresh salsa, cheese, and sour cream
+Description: Vegetarian option always available
+Start:       2016-11-04
+End:         2016-11-05
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with basil-sunflower seed pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-07
+End:         2016-11-08
+Location:    Ann Maisel Cafe
+
+Summary:     Thai spiced chicken or tofu served with jasmine rice and a cucumber-carrot salad
+Description: Vegetarian option always available
+Start:       2016-11-08
+End:         2016-11-09
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled lemon-herb chicken or portobellos served over a seasonal vegetable salad with green goddess dressing
+Description: Vegetarian option always available
+Start:       2016-11-09
+End:         2016-11-10
+Location:    Ann Maisel Cafe
+
+Summary:     Grilled pork chops with mashed root vegetables and a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-11-10
+End:         2016-11-11
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef sloppy joes served with herb roasted yukon gold potatoes
+Description: Vegetarian option always available
+Start:       2016-11-11
+End:         2016-11-12
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with arugula pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-14
+End:         2016-11-15
+Location:    Ann Maisel Cafe
+
+Summary:     Tandoori spiced chicken or tofu served with basmati rice, cucumber raita, and a seasonal chutney
+Description: Vegetarian option always available
+Start:       2016-11-15
+End:         2016-11-16
+Location:    Ann Maisel Cafe
+
+Summary:     Hamburgers or veggie burgers served with herb roasted yukon gold potatoes
+Description: Vegetarian option always available
+Start:       2016-11-16
+End:         2016-11-17
+Location:    Ann Maisel Cafe
+
+Summary:     Sausage and white bean stew served with slice baguette and a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-11-17
+End:         2016-11-18
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken pozole rojo served with a cabbage-cilantro salad and organic blue corn tortilla chips
+Description: Vegetarian option always available
+Start:       2016-11-18
+End:         2016-11-19
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with roasted butternut squash, sage, and goat cheese served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-21
+End:         2016-11-22
+Location:    Ann Maisel Cafe
+
+Summary:     Caesar salad with grilled chicken or portobellos served with olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-22
+End:         2016-11-23
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with kale and roasted garlic pesto served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-28
+End:         2016-11-29
+Location:    Ann Maisel Cafe
+
+Summary:     Pork or tofu paprikash served over steamed rice with a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-11-29
+End:         2016-11-30
+Location:    Ann Maisel Cafe
+
+Summary:     Herb marinated chicken served with a chopped vegetable salad with french feta cheese, white bean hummus, and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-11-30
+End:         2016-12-01
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef stew served with sliced baguette and a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-12-01
+End:         2016-12-02
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken coconut milk curry served over jasmine rice with a cucumber-carrot salad
+Description: Vegetarian option always available
+Start:       2016-12-02
+End:         2016-12-03
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with roasted mushrooms and fresh herbs served with a seasonal salad and olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-12-05
+End:         2016-12-06
+Location:    Ann Maisel Cafe
+
+Summary:     Braised chicken and seasonal vegetables served over cous cous with a harissa yogurt sauce and a rainbow carrot salad
+Description: Vegetarian option always available
+Start:       2016-12-06
+End:         2016-12-07
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or beef picadillo served over steamed rice with a seasonal green salad
+Description: Vegetarian option always available
+Start:       2016-12-07
+End:         2016-12-08
+Location:    Ann Maisel Cafe
+
+Summary:     Lunch menu: BBQ pulled pork or tofu sandwiches served with coleslaw
+Description: Vegetarian option always available
+Start:       2016-12-08
+End:         2016-12-09
+Location:    Ann Maisel Cafe
+
+Summary:     Tofu or chicken taco salad served with fresh salsa, cheese, and sour cream
+Description: Vegetarian option always available
+Start:       2016-12-09
+End:         2016-12-10
+Location:    Ann Maisel Cafe
+
+Summary:     Pasta with basil-sunflower seed pesto served with a seasonal salad
+Description: Vegetarian option always available
+Start:       2016-12-12
+End:         2016-12-13
+Location:    Ann Maisel Cafe
+
+Summary:     Hamburgers or veggie burgers served with herb roasted yukon gold potatoes
+Description: Vegetarian option always available
+Start:       2016-12-13
+End:         2016-12-14
+Location:    Ann Maisel Cafe
+
+Summary:     Caesar salad with grilled chicken or portobellos served with olive oil focaccia
+Description: Vegetarian option always available
+Start:       2016-12-14
+End:         2016-12-15
+Location:    Ann Maisel Cafe
+
+Summary:     Volleyball - Varsity, Girls - Game Berean Christian High School, Head-Royce, International High School - Neutral
+Start:       2016-09-17 08:00:00-07:00
+End:         2016-09-17 08:00:00-07:00
+Location:    City College of San Francisco
+
+Summary:     Cross Country - JV, Boys - Game - Away
+Start:       2016-09-17 09:00:00-07:00
+End:         2016-09-17 09:00:00-07:00
+Location:    Hayward High School
+
+Summary:     Cross Country - JV, Girls - Game - Away
+Start:       2016-09-17 09:00:00-07:00
+End:         2016-09-17 09:00:00-07:00
+Location:    Hayward High School
+
+Summary:     Cross Country - Varsity, Boys - Game - Away
+Start:       2016-09-17 09:00:00-07:00
+End:         2016-09-17 09:00:00-07:00
+Location:    Hayward High School
+
+Summary:     Cross Country - Varsity, Girls - Game - Away
+Start:       2016-09-17 09:00:00-07:00
+End:         2016-09-17 09:00:00-07:00
+Location:    Hayward High School
+
+Summary:     Soccer - Varsity, Boys - Game Urban School of San Francisco - Home
+Start:       2016-09-19 16:00:00-07:00
+End:         2016-09-19 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Water Polo - Varsity - Game Berkeley High School - Home
+Start:       2016-09-20 15:45:00-07:00
+End:         2016-09-20 15:45:00-07:00
+Location:    City College of San Francisco
+
+Summary:     Soccer - JV, Boys - Game International High School - Home
+Start:       2016-09-20 16:00:00-07:00
+End:         2016-09-20 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Cross Country - JV, Boys - Game Bay School of San Francisco, Drew School - Home
+Start:       2016-09-21 15:30:00-07:00
+End:         2016-09-21 15:30:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Boys - Game Bay School of San Francisco, Drew School - Away
+Start:       2016-09-21 15:30:00-07:00
+End:         2016-09-21 15:30:00-07:00
+Location:    Polo Fields, Golden Gate Park
+
+Summary:     Cross Country - JV, Girls - Game Bay School of San Francisco, Drew School - Away
+Start:       2016-09-21 16:00:00-07:00
+End:         2016-09-21 16:00:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Girls - Game Bay School of San Francisco, Drew School - Away
+Start:       2016-09-21 16:00:00-07:00
+End:         2016-09-21 16:00:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Tennis - JV, Girls - Game San Francisco University High School - Away
+Start:       2016-09-21 16:00:00-07:00
+End:         2016-09-21 16:00:00-07:00
+Location:    Mountain Lake Park
+
+Summary:     CANCELLED - Volleyball - Frosh/Soph, Girls - Game Athenian School - Away
+Start:       2016-09-21 16:00:00-07:00
+End:         2016-09-21 16:00:00-07:00
+Location:    Athenian School
+
+Summary:     Volleyball - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2016-09-21 16:00:00-07:00
+End:         2016-09-21 16:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     RESCHEDULED - Volleyball - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2016-09-21 16:30:00-07:00
+End:         2016-09-21 16:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Volleyball - Varsity, Girls - Game Urban School of San Francisco - Home
+Start:       2016-09-21 17:30:00-07:00
+End:         2016-09-21 17:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     RESCHEDULED - Volleyball - Varsity, Girls - Game Urban School of San Francisco - Home
+Start:       2016-09-21 18:00:00-07:00
+End:         2016-09-21 18:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     CANCELLED - Tennis - Varsity, Girls - Game Head-Royce - Home
+Start:       2016-09-22 16:00:00-07:00
+End:         2016-09-22 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Water Polo - Varsity - Game Encinal High School - Away
+Start:       2016-09-22 16:00:00-07:00
+End:         2016-09-22 16:00:00-07:00
+Location:    Encinal High School
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Waldorf - Away
+Start:       2016-09-22 16:30:00-07:00
+End:         2016-09-22 16:30:00-07:00
+Location:    Annunciation Cathedral (Gym)
+
+Summary:     Soccer - Frosh/Soph, Boys - Game Stuart Hall High School - Home
+Start:       2016-09-22 17:00:00-07:00
+End:         2016-09-22 17:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Tennis - JV, Girls - Game Marin Academy - Away
+Start:       2016-09-23 15:30:00-07:00
+End:         2016-09-23 15:30:00-07:00
+Location:    Marin Tennis Club
+
+Summary:     Soccer - Varsity, Boys - Game Gateway High School - Home
+Start:       2016-09-23 16:00:00-07:00
+End:         2016-09-23 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Tennis - Varsity, Girls - Game Drew School - Home
+Start:       2016-09-23 16:00:00-07:00
+End:         2016-09-23 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - JV, Girls - Game Marin Academy - Home
+Start:       2016-09-23 16:00:00-07:00
+End:         2016-09-23 16:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Boys - Game Bay School of San Francisco - Home
+Start:       2016-09-23 17:30:00-07:00
+End:         2016-09-23 17:30:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Volleyball - Varsity, Girls - Game Marin Academy - Home
+Start:       2016-09-23 17:30:00-07:00
+End:         2016-09-23 17:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Boys - Game Waldorf - Home
+Start:       2016-09-26 16:00:00-07:00
+End:         2016-09-26 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Water Polo - Varsity - Game Bishop O'Dowd High School - Home
+Start:       2016-09-27 15:45:00-07:00
+End:         2016-09-27 15:45:00-07:00
+Location:    City College of San Francisco
+
+Summary:     Volleyball - JV, Girls - Game San Francisco University High School - Home
+Start:       2016-09-27 16:00:00-07:00
+End:         2016-09-27 16:00:00-07:00
+Location:    San Francisco University High School
+
+Summary:     Soccer - Frosh/Soph, Boys - Game Head-Royce - Home
+Start:       2016-09-27 17:00:00-07:00
+End:         2016-09-27 17:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Volleyball - Varsity, Girls - Game San Francisco University High School - Home
+Start:       2016-09-27 17:30:00-07:00
+End:         2016-09-27 17:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Tennis - JV, Girls - Game Drew School - Away
+Start:       2016-09-28 15:30:00-07:00
+End:         2016-09-28 15:30:00-07:00
+Location:    Dupont Courts
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Convent of the Sacred Heart - Away
+Start:       2016-09-28 15:30:00-07:00
+End:         2016-09-28 15:30:00-07:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Cross Country - JV, Boys - Game Marin Academy, San Domenico, Urban School of San Francisco, International Studies Academy - Away
+Start:       2016-09-28 16:00:00-07:00
+End:         2016-09-28 16:00:00-07:00
+Location:    Tennessee Valley
+
+Summary:     Cross Country - Varsity, Boys - Game International High School, Marin Academy, Urban School of San Francisco - Away
+Start:       2016-09-28 16:00:00-07:00
+End:         2016-09-28 16:00:00-07:00
+Location:    Tennessee Valley
+
+Summary:     Soccer - Varsity, Boys - Game Bay School of San Francisco - Home
+Start:       2016-09-28 16:00:00-07:00
+End:         2016-09-28 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Tennis - Varsity, Girls - Game Convent of the Sacred Heart - Home
+Start:       2016-09-28 16:00:00-07:00
+End:         2016-09-28 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Cross Country - JV, Girls - Game International High School, Marin Academy, San Domenico, Urban School of San Francisco - Away
+Start:       2016-09-28 16:30:00-07:00
+End:         2016-09-28 16:30:00-07:00
+Location:    Tennessee Valley
+
+Summary:     Cross Country - Varsity, Girls - Game International High School, Marin Academy, San Domenico, Urban School of San Francisco - Away
+Start:       2016-09-28 16:30:00-07:00
+End:         2016-09-28 16:30:00-07:00
+Location:    Tennessee Valley
+
+Summary:     Volleyball - JV, Girls - Game Convent of the Sacred Heart - Away
+Start:       2016-09-28 16:30:00-07:00
+End:         2016-09-28 16:30:00-07:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Soccer - Frosh/Soph, Boys - Game Redwood Christian High School - Home
+Start:       2016-09-28 17:30:00-07:00
+End:         2016-09-28 17:30:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Volleyball - Varsity, Girls - Game Convent of the Sacred Heart - Away
+Start:       2016-09-28 18:00:00-07:00
+End:         2016-09-28 18:00:00-07:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Athenian School - Home
+Start:       2016-09-29 16:30:00-07:00
+End:         2016-09-29 16:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Boys - Game Stuart Hall High School - Away
+Start:       2016-09-30 16:00:00-07:00
+End:         2016-09-30 16:00:00-07:00
+Location:    Crocker Amazon Park
+
+Summary:     Tennis - JV, Girls - Game Convent of the Sacred Heart - Home
+Start:       2016-09-30 16:00:00-07:00
+End:         2016-09-30 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Tennis - Varsity, Girls - Game San Domenico - Away
+Start:       2016-09-30 16:00:00-07:00
+End:         2016-09-30 16:00:00-07:00
+Location:    San Domenico
+
+Summary:     Cross Country - Varsity, Boys - Game - Away
+Start:       2016-10-01 15:00:00-07:00
+End:         2016-10-01 15:00:00-07:00
+Location:    Stanford University, Cross-Country Course
+
+Summary:     Cross Country - Varsity, Girls - Game - Away
+Start:       2016-10-01 15:00:00-07:00
+End:         2016-10-01 15:00:00-07:00
+Location:    Stanford University, Cross-Country Course
+
+Summary:     Soccer - Frosh/Soph, Boys - Game Drew School - Home
+Start:       2016-10-03 17:00:00-07:00
+End:         2016-10-03 17:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Tennis - JV, Girls - Game Lowell - Away
+Start:       2016-10-04 15:30:00-07:00
+End:         2016-10-04 15:30:00-07:00
+Location:    Lowell
+
+Summary:     Tennis - Varsity, Girls - Game Lowell - Away
+Start:       2016-10-04 15:30:00-07:00
+End:         2016-10-04 15:30:00-07:00
+Location:    Lowell
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Athenian School - Away
+Start:       2016-10-04 16:00:00-07:00
+End:         2016-10-04 16:00:00-07:00
+Location:    Athenian School
+
+Summary:     Water Polo - Varsity - Game Castro Valley High School - Away
+Start:       2016-10-04 16:00:00-07:00
+End:         2016-10-04 16:00:00-07:00
+Location:    Castro Valley High School
+
+Summary:     RESCHEDULED - Tennis - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2016-10-05 15:30:00-07:00
+End:         2016-10-05 15:30:00-07:00
+Location:    JP Murphy Playground
+
+Summary:     Soccer - JV, Boys - Game Drew School - Home
+Start:       2016-10-05 16:00:00-07:00
+End:         2016-10-05 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - Varsity, Boys - Game Gateway High School - Away
+Start:       2016-10-05 16:00:00-07:00
+End:         2016-10-05 16:00:00-07:00
+Location:    Beach Chalet Soccer Fields
+
+Summary:     Volleyball - JV, Girls - Game Marin Academy - Away
+Start:       2016-10-05 16:00:00-07:00
+End:         2016-10-05 16:00:00-07:00
+Location:    Marin Academy
+
+Summary:     Volleyball - Varsity, Girls - Game Marin Academy - Away
+Start:       2016-10-05 17:30:00-07:00
+End:         2016-10-05 17:30:00-07:00
+Location:    Marin Academy
+
+Summary:     Soccer - JV, Boys - Game San Domenico - Home
+Start:       2016-10-06 16:00:00-07:00
+End:         2016-10-06 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Urban School of San Francisco - Home
+Start:       2016-10-06 16:00:00-07:00
+End:         2016-10-06 16:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Frosh/Soph, Boys - Game Athenian School - Away
+Start:       2016-10-06 16:30:00-07:00
+End:         2016-10-06 16:30:00-07:00
+Location:    Athenian School
+
+Summary:     Tennis - Varsity, Girls - Game San Francisco University High School - Away
+Start:       2016-10-07 15:30:00-07:00
+End:         2016-10-07 15:30:00-07:00
+Location:    Golden Gate Park, Tennis Courts
+
+Summary:     Soccer - Varsity, Boys - Game Pescadero High School - Away
+Start:       2016-10-07 16:00:00-07:00
+End:         2016-10-07 16:00:00-07:00
+Location:    Pescadero High School
+
+Summary:     Tennis - JV, Girls - Game International High School - Home
+Start:       2016-10-07 16:00:00-07:00
+End:         2016-10-07 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - JV, Girls - Game Urban School of San Francisco - Away
+Start:       2016-10-07 16:00:00-07:00
+End:         2016-10-07 16:00:00-07:00
+Location:    Urban School of San Francisco
+
+Summary:     Volleyball - Varsity, Girls - Game Urban School of San Francisco - Away
+Start:       2016-10-07 17:30:00-07:00
+End:         2016-10-07 17:30:00-07:00
+Location:    Urban School of San Francisco
+
+Summary:     Tennis - Varsity, Girls - Game Urban School of San Francisco - Away
+Start:       2016-10-10 15:30:00-07:00
+End:         2016-10-10 15:30:00-07:00
+Location:    Golden Gate Park, Tennis Courts
+
+Summary:     Tennis - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2016-10-10 16:00:00-07:00
+End:         2016-10-10 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Soccer - Varsity, Boys - Game Roseland University Prep - Home
+Start:       2016-10-10 16:30:00-07:00
+End:         2016-10-10 16:30:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - JV, Boys - Game International High School - Away
+Start:       2016-10-11 15:30:00-07:00
+End:         2016-10-11 15:30:00-07:00
+Location:    Boxer Stadium
+
+Summary:     Water Polo - Varsity - Game Alameda High School - Home
+Start:       2016-10-11 15:45:00-07:00
+End:         2016-10-11 15:45:00-07:00
+Location:    City College of San Francisco
+
+Summary:     Soccer - Varsity, Boys - Game International High School - Away
+Start:       2016-10-11 17:00:00-07:00
+End:         2016-10-11 17:00:00-07:00
+Location:    International High School
+
+Summary:     Cross Country - JV, Boys - Game - Away
+Start:       2016-10-13 15:30:00-07:00
+End:         2016-10-13 15:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Cross Country - JV, Girls - Game - Away
+Start:       2016-10-13 15:30:00-07:00
+End:         2016-10-13 15:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Cross Country - Varsity, Boys - Game - Away
+Start:       2016-10-13 15:30:00-07:00
+End:         2016-10-13 15:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Cross Country - Varsity, Girls - Game - Away
+Start:       2016-10-13 15:30:00-07:00
+End:         2016-10-13 15:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Lowell - Home
+Start:       2016-10-13 15:30:00-07:00
+End:         2016-10-13 15:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Volleyball - JV, Girls - Game Lowell - Home
+Start:       2016-10-13 16:30:00-07:00
+End:         2016-10-13 16:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Frosh/Soph, Boys - Game San Domenico - Home
+Start:       2016-10-13 17:00:00-07:00
+End:         2016-10-13 17:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Volleyball - Varsity, Girls - Game Lowell - Home
+Start:       2016-10-13 18:00:00-07:00
+End:         2016-10-13 18:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Tennis - JV, Girls - Game Convent of the Sacred Heart - Away
+Start:       2016-10-14 15:30:00-07:00
+End:         2016-10-14 15:30:00-07:00
+Location:    Moscone Field
+
+Summary:     Soccer - JV, Boys - Game Bay School of San Francisco - Away
+Start:       2016-10-14 16:00:00-07:00
+End:         2016-10-14 16:00:00-07:00
+Location:    Crocker Amazon Park
+
+Summary:     Soccer - Varsity, Boys - Game Urban School of San Francisco - Away
+Start:       2016-10-14 16:00:00-07:00
+End:         2016-10-14 16:00:00-07:00
+Location:    Beach Chalet Soccer Fields
+
+Summary:     RESCHEDULED - Tennis - Varsity, Girls - Game Bay School of San Francisco - Home
+Start:       2016-10-14 16:00:00-07:00
+End:         2016-10-14 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game Urban School of San Francisco - Away
+Start:       2016-10-14 16:00:00-07:00
+End:         2016-10-14 16:00:00-07:00
+Location:    Urban School of San Francisco
+
+Summary:     Volleyball - JV, Girls - Game Kennedy High School - Home
+Start:       2016-10-14 16:30:00-07:00
+End:         2016-10-14 16:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Volleyball - Varsity, Girls - Game Kennedy High School - Home
+Start:       2016-10-14 18:00:00-07:00
+End:         2016-10-14 18:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Boys - Game Pescadero High School - Home
+Start:       2016-10-19 16:00:00-07:00
+End:         2016-10-19 16:00:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Tennis - JV, Girls - Game Marin Academy - Home
+Start:       2016-10-19 16:00:00-07:00
+End:         2016-10-19 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Tennis - Varsity, Girls - Game International High School - Away
+Start:       2016-10-19 16:00:00-07:00
+End:         2016-10-19 16:00:00-07:00
+Location:    San Francisco Tennis Club
+
+Summary:     Soccer - JV, Boys - Game Urban School of San Francisco - Home
+Start:       2016-10-19 17:30:00-07:00
+End:         2016-10-19 17:30:00-07:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Water Polo - Varsity - Game Piedmont High School - Away
+Start:       2016-10-19 18:00:00-07:00
+End:         2016-10-19 18:00:00-07:00
+Location:    Mills College
+
+Summary:     Tennis - JV, Girls - Game Drew School - Home
+Start:       2016-10-20 16:00:00-07:00
+End:         2016-10-20 16:00:00-07:00
+Location:    Drew School
+
+Summary:     CANCELLED - Tennis - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2016-10-21 15:30:00-07:00
+End:         2016-10-21 15:30:00-07:00
+Location:    JP Murphy Playground
+
+Summary:     Volleyball - Frosh/Soph, Girls - Game - Home
+Start:       2016-10-21 15:30:00-07:00
+End:         2016-10-21 15:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Boys - Game Stuart Hall High School - Away
+Start:       2016-10-21 16:00:00-07:00
+End:         2016-10-21 16:00:00-07:00
+Location:    Crocker Amazon Park
+
+Summary:     Soccer - Varsity, Boys - Game Drew School - Away
+Start:       2016-10-21 16:00:00-07:00
+End:         2016-10-21 16:00:00-07:00
+Location:    Minnie Love Rec Center
+
+Summary:     Tennis - Varsity, Girls - Game Marin Academy - Home
+Start:       2016-10-21 16:00:00-07:00
+End:         2016-10-21 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - JV, Girls - Game Convent of the Sacred Heart - Home
+Start:       2016-10-21 16:30:00-07:00
+End:         2016-10-21 16:30:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Volleyball - Varsity, Girls - Game Convent of the Sacred Heart - Home
+Start:       2016-10-21 18:00:00-07:00
+End:         2016-10-21 18:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Tennis - Varsity, Girls - Game Bay School of San Francisco - Home
+Start:       2016-10-24 16:00:00-07:00
+End:         2016-10-24 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Cross Country - JV, Boys - Game International High School, Stuart Hall High School, University High School - Home
+Start:       2016-10-25 16:00:00-07:00
+End:         2016-10-25 16:00:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Boys - Game San Francisco University High School, Stuart Hall High School - Home
+Start:       2016-10-25 16:00:00-07:00
+End:         2016-10-25 16:00:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Tennis - JV, Girls - Game San Francisco University High School - Home
+Start:       2016-10-25 16:00:00-07:00
+End:         2016-10-25 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Cross Country - JV, Girls - Game Convent of the Sacred Heart, University High School - Home
+Start:       2016-10-25 16:30:00-07:00
+End:         2016-10-25 16:30:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Girls - Game Convent of the Sacred Heart, University High School - Home
+Start:       2016-10-25 16:30:00-07:00
+End:         2016-10-25 16:30:00-07:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     RESCHEDULED - Tennis - Varsity, Girls - Game - Home
+Start:       2016-10-26 16:00:00-07:00
+End:         2016-10-26 16:00:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - Varsity, Girls - Game San Francisco University High School - Neutral
+Start:       2016-10-26 19:00:00-07:00
+End:         2016-10-26 19:00:00-07:00
+Location:    Urban School of San Francisco
+
+Summary:     Soccer - Varsity, Boys - Game Gateway High School - Home
+Start:       2016-10-27 16:00:00-07:00
+End:         2016-10-27 16:00:00-07:00
+Location:    Crocker Amazon Park
+
+Summary:     Water Polo - Varsity - Game - Away
+Start:       2016-10-27 18:00:00-07:00
+End:         2016-10-27 18:00:00-07:00
+Location:    Encinal High School
+
+Summary:     RESCHEDULED - Tennis - Varsity, Girls - Game San Francisco University High School - Away
+Start:       2016-10-28 15:30:00-07:00
+End:         2016-10-28 15:30:00-07:00
+Location:    San Domenico
+
+Summary:     Tennis - Varsity, Girls - Game - Home
+Start:       2016-10-28 15:30:00-07:00
+End:         2016-10-28 15:30:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Volleyball - Varsity, Girls - Game Marin Academy - Neutral
+Start:       2016-10-28 19:00:00-07:00
+End:         2016-10-28 19:00:00-07:00
+Location:    Urban School of San Francisco
+
+Summary:     Soccer - Varsity, Boys - Game - Home
+Start:       2016-10-29 19:30:00-07:00
+End:         2016-10-29 19:30:00-07:00
+
+Summary:     Water Polo - Varsity - Game - TBD
+Start:       2016-10-29 23:59:00-07:00
+End:         2016-10-29 23:59:00-07:00
+Location:    Encinal High School
+
+Summary:     Tennis - Varsity, Girls - Game San Francisco University High School - Home
+Start:       2016-10-31 15:30:00-07:00
+End:         2016-10-31 15:30:00-07:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Tennis - Varsity, Girls - Game - Home
+Start:       2016-11-02 13:00:00-07:00
+End:         2016-11-02 13:00:00-07:00
+Location:    Golden Gate Park, Tennis Courts
+
+Summary:     Volleyball - Varsity, Girls - Game Roseland University Prep - Home
+Start:       2016-11-02 19:00:00-07:00
+End:         2016-11-02 19:00:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Boys - Game - TBD
+Start:       2016-11-02 23:59:00-07:00
+End:         2016-11-02 23:59:00-07:00
+
+Summary:     Tennis - Varsity, Girls - Game - Neutral
+Start:       2016-11-03 15:00:00-07:00
+End:         2016-11-03 15:00:00-07:00
+Location:    San Domenico
+
+Summary:     Cross Country - JV, Boys - Game Bay School of San Francisco, Marin Academy, Stuart Hall High School, University High School, Urban School of San Francisco - Away
+Start:       2016-11-04 15:00:00-07:00
+End:         2016-11-04 15:00:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Tennis - Varsity, Girls - Game - Neutral
+Start:       2016-11-04 15:00:00-07:00
+End:         2016-11-04 15:00:00-07:00
+Location:    San Domenico
+
+Summary:     Cross Country - JV, Girls - Game Bay School of San Francisco, Convent of the Sacred Heart, Drew School, Marin Academy, San Domenico, University High School, Urban School of San Francisco - Away
+Start:       2016-11-04 15:30:00-07:00
+End:         2016-11-04 15:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Cross Country - Varsity, Boys - Game Bay School of San Francisco, Drew School, International High School, Marin Academy, Stuart Hall High School, University High School, Urban School of San Francisco - Away
+Start:       2016-11-04 16:00:00-07:00
+End:         2016-11-04 16:00:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Cross Country - Varsity, Girls - Game Bay School of San Francisco, Convent of the Sacred Heart, Drew School, International High School, Marin Academy, San Domenico, University High School, Urban School of San Francisco - Away
+Start:       2016-11-04 16:30:00-07:00
+End:         2016-11-04 16:30:00-07:00
+Location:    Golden Gate Park - Lindley Meadow (Cross Country)
+
+Summary:     Soccer - Varsity, Boys - Game Kelseyville High School - Home
+Start:       2016-11-05 18:00:00-07:00
+End:         2016-11-05 18:00:00-07:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Volleyball - Varsity, Girls - Game Arcata High School - Home
+Start:       2016-11-05 23:59:00-07:00
+End:         2016-11-05 23:59:00-07:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Tennis - Varsity, Girls - Game - TBD
+Start:       2016-11-08 23:59:00-08:00
+End:         2016-11-08 23:59:00-08:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Soccer - Varsity, Boys - Game Roseland University Prep - Home
+Start:       2016-11-09 19:00:00-08:00
+End:         2016-11-09 19:00:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Volleyball - Varsity, Girls - Game St. Joseph's Notre Dame, Alameda - Home
+Start:       2016-11-09 19:00:00-08:00
+End:         2016-11-09 19:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Tennis - Varsity, Girls - Game - Home
+Start:       2016-11-10 14:00:00-08:00
+End:         2016-11-10 14:00:00-08:00
+Location:    City College of San Francisco (Tennis Courts)
+
+Summary:     Soccer - Varsity, Boys - Game Fortuna - Home
+Start:       2016-11-12 19:00:00-08:00
+End:         2016-11-12 19:00:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Volleyball - Varsity, Girls - Game - Home
+Start:       2016-11-16 19:00:00-08:00
+End:         2016-11-16 19:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     CANCELLED - Soccer - JV, Girls - Game St. Ignatius College Prep - Home
+Start:       2016-11-17 15:30:00-08:00
+End:         2016-11-17 15:30:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - Varsity, Girls - Game St. Ignatius College Prep - Away
+Start:       2016-11-17 15:30:00-08:00
+End:         2016-11-17 15:30:00-08:00
+Location:    St. Ignatius College Prep
+
+Summary:     Basketball - JV, Boys - Game Wallenberg - Home
+Start:       2016-11-17 16:00:00-08:00
+End:         2016-11-17 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Wallenberg - Home
+Start:       2016-11-17 17:30:00-08:00
+End:         2016-11-17 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Cross Country - Varsity, Boys - Game - Away
+Start:       2016-11-19 10:30:00-08:00
+End:         2016-11-19 10:30:00-08:00
+Location:    Hayward High School
+
+Summary:     Cross Country - Varsity, Girls - Game - Away
+Start:       2016-11-19 10:30:00-08:00
+End:         2016-11-19 10:30:00-08:00
+Location:    Hayward High School
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Lowell - Away
+Start:       2016-11-19 15:00:00-08:00
+End:         2016-11-19 15:00:00-08:00
+Location:    Lowell
+
+Summary:     Basketball - JV, Boys - Game Lowell - Away
+Start:       2016-11-19 16:30:00-08:00
+End:         2016-11-19 16:30:00-08:00
+Location:    Lowell
+
+Summary:     Basketball - Varsity, Boys - Game Lowell - Away
+Start:       2016-11-19 18:00:00-08:00
+End:         2016-11-19 18:00:00-08:00
+Location:    Lowell
+
+Summary:     Volleyball - Varsity, Girls - Game Monte Vista Christian - Away
+Start:       2016-11-19 19:00:00-08:00
+End:         2016-11-19 19:00:00-08:00
+Location:    Monte Vista Christian
+
+Summary:     CANCELLED - Soccer - JV, Girls - Game Tamalpais High School, Drake High School - Away
+Start:       2016-11-19 23:59:00-08:00
+End:         2016-11-19 23:59:00-08:00
+Location:    Sir Francis Drake High School
+
+Summary:     Basketball - Varsity, Boys - Game Leadership High School - Home
+Start:       2016-11-21 16:30:00-08:00
+End:         2016-11-21 16:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Tamalpais High School - Away
+Start:       2016-11-22 16:00:00-08:00
+End:         2016-11-22 16:00:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Basketball - JV, Girls - Game Balboa High School - Home
+Start:       2016-11-22 16:00:00-08:00
+End:         2016-11-22 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Cross Country - JV, Boys - Game - Home
+Start:       2016-11-22 16:30:00-08:00
+End:         2016-11-22 16:30:00-08:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - JV, Girls - Game - Home
+Start:       2016-11-22 16:30:00-08:00
+End:         2016-11-22 16:30:00-08:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Boys - Game - Home
+Start:       2016-11-22 16:30:00-08:00
+End:         2016-11-22 16:30:00-08:00
+Location:    Golden Gate Park - Polo Fields (Cross Country)
+
+Summary:     Cross Country - Varsity, Girls - Game - Home
+Start:       2016-11-22 16:30:00-08:00
+End:         2016-11-22 16:30:00-08:00
+Location:    Polo Fields, Golden Gate Park
+
+Summary:     Basketball - JV, Boys - Game Tamalpais High School - Away
+Start:       2016-11-22 17:30:00-08:00
+End:         2016-11-22 17:30:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Basketball - Varsity, Girls - Game Balboa High School - Home
+Start:       2016-11-22 17:30:00-08:00
+End:         2016-11-22 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Tamalpais High School - Away
+Start:       2016-11-22 19:00:00-08:00
+End:         2016-11-22 19:00:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Cross Country - Varsity, Boys - Game - Away
+Start:       2016-11-26 10:30:00-08:00
+End:         2016-11-26 10:30:00-08:00
+Location:    Woodward Park, Fresno
+
+Summary:     Cross Country - Varsity, Girls - Game - Away
+Start:       2016-11-26 10:30:00-08:00
+End:         2016-11-26 10:30:00-08:00
+Location:    Woodward Park, Fresno
+
+Summary:     Soccer - JV, Girls - Game Wallenberg - Home
+Start:       2016-11-30 15:30:00-08:00
+End:         2016-11-30 15:30:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Urban School of San Francisco - Home
+Start:       2016-11-30 17:30:00-08:00
+End:         2016-11-30 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-11-30 23:59:00-08:00
+End:         2016-11-30 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-11-30 23:59:00-08:00
+End:         2016-11-30 23:59:00-08:00
+Location:    Redwood Christian High School
+
+Summary:     Soccer - Varsity, Girls - Game Novato High School - Home
+Start:       2016-12-01 15:15:00-08:00
+End:         2016-12-01 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Varsity, Girls - Game - Home
+Start:       2016-12-01 15:30:00-08:00
+End:         2016-12-01 15:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-01 23:59:00-08:00
+End:         2016-12-01 23:59:00-08:00
+Location:    Redwood Christian High School
+
+Summary:     Soccer - Varsity, Girls - Game Lowell - Away
+Start:       2016-12-02 15:15:00-08:00
+End:         2016-12-02 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Bay School of San Francisco - Away
+Start:       2016-12-02 16:00:00-08:00
+End:         2016-12-02 16:00:00-08:00
+Location:    Letterman Gymnasium
+
+Summary:     Basketball - JV, Boys - Game Washington High School - Away
+Start:       2016-12-02 17:30:00-08:00
+End:         2016-12-02 17:30:00-08:00
+Location:    Washington High School
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-12-02 23:59:00-08:00
+End:         2016-12-02 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-02 23:59:00-08:00
+End:         2016-12-02 23:59:00-08:00
+Location:    Redwood Christian High School
+
+Summary:     Basketball - Varsity, Girls - Game - Home
+Start:       2016-12-02 23:59:00-08:00
+End:         2016-12-02 23:59:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-12-03 23:59:00-08:00
+End:         2016-12-03 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-03 23:59:00-08:00
+End:         2016-12-03 23:59:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game College Preparatory School - Away
+Start:       2016-12-06 16:00:00-08:00
+End:         2016-12-06 16:00:00-08:00
+Location:    College Preparatory School
+
+Summary:     Basketball - JV, Girls - Game College Preparatory School - Home
+Start:       2016-12-06 16:00:00-08:00
+End:         2016-12-06 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game College Preparatory School - Away
+Start:       2016-12-06 17:30:00-08:00
+End:         2016-12-06 17:30:00-08:00
+Location:    College Preparatory School
+
+Summary:     Basketball - Varsity, Girls - Game College Preparatory School - Home
+Start:       2016-12-06 17:30:00-08:00
+End:         2016-12-06 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Girls - Game Terra Linda High School - Away
+Start:       2016-12-08 15:30:00-08:00
+End:         2016-12-08 15:30:00-08:00
+Location:    Terra Linda High School
+
+Summary:     Basketball - JV, Boys - Game Burton High School - Home
+Start:       2016-12-08 17:00:00-08:00
+End:         2016-12-08 17:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Frosh/Soph, Boys - Game San Domenico - Home
+Start:       2016-12-08 17:30:00-08:00
+End:         2016-12-08 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-12-08 23:59:00-08:00
+End:         2016-12-08 23:59:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-08 23:59:00-08:00
+End:         2016-12-08 23:59:00-08:00
+Location:    Lowell
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-08 23:59:00-08:00
+End:         2016-12-08 23:59:00-08:00
+Location:    Lincoln High School
+
+Summary:     Soccer - Varsity, Girls - Game St. Joseph's Notre Dame, Alameda - Away
+Start:       2016-12-08 23:59:00-08:00
+End:         2016-12-08 23:59:00-08:00
+Location:    St. Joseph Notre Dame High School
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Riordan High School - Home
+Start:       2016-12-09 17:30:00-08:00
+End:         2016-12-09 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-12-09 23:59:00-08:00
+End:         2016-12-09 23:59:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-09 23:59:00-08:00
+End:         2016-12-09 23:59:00-08:00
+Location:    Lowell
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-09 23:59:00-08:00
+End:         2016-12-09 23:59:00-08:00
+Location:    Lincoln High School
+
+Summary:     Basketball - JV, Girls - Game - Away
+Start:       2016-12-10 23:59:00-08:00
+End:         2016-12-10 23:59:00-08:00
+Location:    Tamalpais High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-10 23:59:00-08:00
+End:         2016-12-10 23:59:00-08:00
+Location:    Lowell
+
+Summary:     Basketball - Varsity, Girls - Game - Home
+Start:       2016-12-10 23:59:00-08:00
+End:         2016-12-10 23:59:00-08:00
+Location:    Lincoln High School
+
+Summary:     Soccer - Varsity, Girls - Game Terra Linda High School - Home
+Start:       2016-12-15 15:15:00-08:00
+End:         2016-12-15 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Varsity, Girls - Game - Away
+Start:       2016-12-19 23:59:00-08:00
+End:         2016-12-19 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Frosh/Soph, Boys - Game El Camino High School - Home
+Start:       2016-12-20 15:00:00-08:00
+End:         2016-12-20 15:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game El Camino High School - Home
+Start:       2016-12-20 16:30:00-08:00
+End:         2016-12-20 16:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game El Camino High School - Home
+Start:       2016-12-20 18:00:00-08:00
+End:         2016-12-20 18:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game - Away
+Start:       2016-12-20 23:59:00-08:00
+End:         2016-12-20 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Varsity, Girls - Game - Away
+Start:       2016-12-21 23:59:00-08:00
+End:         2016-12-21 23:59:00-08:00
+Location:    Terra Nova High School
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-28 23:59:00-08:00
+End:         2016-12-28 23:59:00-08:00
+Location:    Head-Royce
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-28 23:59:00-08:00
+End:         2016-12-28 23:59:00-08:00
+Location:    Eastisde Prep
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-29 23:59:00-08:00
+End:         2016-12-29 23:59:00-08:00
+Location:    Head-Royce
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-29 23:59:00-08:00
+End:         2016-12-29 23:59:00-08:00
+Location:    Eastisde Prep
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2016-12-30 23:59:00-08:00
+End:         2016-12-30 23:59:00-08:00
+Location:    Head-Royce
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2016-12-30 23:59:00-08:00
+End:         2016-12-30 23:59:00-08:00
+Location:    Eastisde Prep
+
+Summary:     Basketball - JV, Boys - Game Balboa High School - Home
+Start:       2017-01-03 17:00:00-08:00
+End:         2017-01-03 17:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Balboa High School - Home
+Start:       2017-01-03 18:30:00-08:00
+End:         2017-01-03 18:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game Waldorf - Home
+Start:       2017-01-04 16:00:00-08:00
+End:         2017-01-04 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Head-Royce - Home
+Start:       2017-01-04 17:30:00-08:00
+End:         2017-01-04 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Girls - Game Marin Academy - Away
+Start:       2017-01-04 23:59:00-08:00
+End:         2017-01-04 23:59:00-08:00
+Location:    Marin Academy
+
+Summary:     Soccer - Varsity, Girls - Game Marin Academy - Home
+Start:       2017-01-04 23:59:00-08:00
+End:         2017-01-04 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - JV, Boys - Game Gateway High School - Home
+Start:       2017-01-05 16:00:00-08:00
+End:         2017-01-05 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Gateway High School - Home
+Start:       2017-01-05 17:30:00-08:00
+End:         2017-01-05 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Girls - Game University High School - Home
+Start:       2017-01-06 15:15:00-08:00
+End:         2017-01-06 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Varsity, Boys - Game Gateway High School - Home
+Start:       2017-01-06 19:00:00-08:00
+End:         2017-01-06 19:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Berean Christian High School - Away
+Start:       2017-01-07 16:30:00-08:00
+End:         2017-01-07 16:30:00-08:00
+Location:    Berean Christian
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Berean Christian High School - Away
+Start:       2017-01-07 23:59:00-08:00
+End:         2017-01-07 23:59:00-08:00
+Location:    Berean Christian
+
+Summary:     Basketball - JV, Boys - Game Berean Christian High School - Away
+Start:       2017-01-07 23:59:00-08:00
+End:         2017-01-07 23:59:00-08:00
+Location:    Berean Christian
+
+Summary:     Basketball - Varsity, Boys - Game Berean Christian High School - Away
+Start:       2017-01-07 23:59:00-08:00
+End:         2017-01-07 23:59:00-08:00
+Location:    Berean Christian
+
+Summary:     Soccer - Varsity, Girls - Game Urban School of San Francisco - Home
+Start:       2017-01-09 23:59:00-08:00
+End:         2017-01-09 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Stuart Hall High School - Away
+Start:       2017-01-10 15:30:00-08:00
+End:         2017-01-10 15:30:00-08:00
+Location:    Stuart Hall High School
+
+Summary:     Basketball - JV, Girls - Game Convent of the Sacred Heart - Home
+Start:       2017-01-10 16:00:00-08:00
+End:         2017-01-10 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game Stuart Hall High School - Away
+Start:       2017-01-10 17:00:00-08:00
+End:         2017-01-10 17:00:00-08:00
+Location:    Stuart Hall High School
+
+Summary:     Basketball - Varsity, Girls - Game Convent of the Sacred Heart - Home
+Start:       2017-01-10 17:30:00-08:00
+End:         2017-01-10 17:30:00-08:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Basketball - Varsity, Boys - Game Stuart Hall High School - Away
+Start:       2017-01-10 18:30:00-08:00
+End:         2017-01-10 18:30:00-08:00
+Location:    Stuart Hall High School
+
+Summary:     Soccer - JV, Girls - Game Marin Academy - Home
+Start:       2017-01-11 15:15:00-08:00
+End:         2017-01-11 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - Varsity, Girls - Game Redwood Christian High School - Away
+Start:       2017-01-11 23:59:00-08:00
+End:         2017-01-11 23:59:00-08:00
+Location:    Redwood Christian High School
+
+Summary:     Basketball - Varsity, Girls - Game San Francisco University High School - Away
+Start:       2017-01-12 12:15:00-08:00
+End:         2017-01-12 12:15:00-08:00
+Location:    Oracle Arena
+
+Summary:     Basketball - Varsity, Boys - Game University High School - Away
+Start:       2017-01-12 14:00:00-08:00
+End:         2017-01-12 14:00:00-08:00
+Location:    Oracle Arena
+
+Summary:     Basketball - Frosh/Soph, Boys - Game San Francisco University High School - Home
+Start:       2017-01-13 15:30:00-08:00
+End:         2017-01-13 15:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game San Francisco University High School - Home
+Start:       2017-01-13 17:00:00-08:00
+End:         2017-01-13 17:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game San Francisco University High School - Home
+Start:       2017-01-13 18:30:00-08:00
+End:         2017-01-13 18:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Girls - Game Head-Royce - Home
+Start:       2017-01-13 23:59:00-08:00
+End:         2017-01-13 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Bentley School - Home
+Start:       2017-01-14 12:00:00-08:00
+End:         2017-01-14 12:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game Bentley School - Home
+Start:       2017-01-14 13:30:00-08:00
+End:         2017-01-14 13:30:00-08:00
+Location:    Bentley School
+
+Summary:     Basketball - Varsity, Boys - Game Bentley School - Home
+Start:       2017-01-14 15:00:00-08:00
+End:         2017-01-14 15:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Justin Siena - Away
+Start:       2017-01-16 14:00:00-08:00
+End:         2017-01-16 14:00:00-08:00
+Location:    Marin Catholic
+
+Summary:     CANCELLED - Basketball - JV, Girls - Game International High School - Away
+Start:       2017-01-17 16:00:00-08:00
+End:         2017-01-17 16:00:00-08:00
+Location:    International High School
+
+Summary:     Soccer - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2017-01-18 15:15:00-08:00
+End:         2017-01-18 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - JV, Boys - Game Urban School of San Francisco - Away
+Start:       2017-01-18 17:15:00-08:00
+End:         2017-01-18 17:15:00-08:00
+Location:    Urban School of San Francisco
+
+Summary:     Basketball - Varsity, Girls - Game Urban School of San Francisco - Home
+Start:       2017-01-18 17:30:00-08:00
+End:         2017-01-18 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Urban School of San Francisco - Home
+Start:       2017-01-18 19:00:00-08:00
+End:         2017-01-18 19:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - Varsity, Girls - Game Urban School of San Francisco - Away
+Start:       2017-01-18 23:59:00-08:00
+End:         2017-01-18 23:59:00-08:00
+Location:    Urban School of San Francisco
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Bay School of San Francisco - Home
+Start:       2017-01-19 17:30:00-08:00
+End:         2017-01-19 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game Marin Academy - Away
+Start:       2017-01-20 16:00:00-08:00
+End:         2017-01-20 16:00:00-08:00
+Location:    Marin Academy
+
+Summary:     Basketball - JV, Girls - Game Marin Academy - Home
+Start:       2017-01-20 16:00:00-08:00
+End:         2017-01-20 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Marin Academy - Away
+Start:       2017-01-20 17:30:00-08:00
+End:         2017-01-20 17:30:00-08:00
+Location:    Marin Academy
+
+Summary:     Basketball - Varsity, Girls - Game Marin Academy - Home
+Start:       2017-01-20 17:30:00-08:00
+End:         2017-01-20 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Girls - Game San Francisco University High School - Away
+Start:       2017-01-20 23:59:00-08:00
+End:         2017-01-20 23:59:00-08:00
+Location:    San Francisco University High School
+
+Summary:     Soccer - Varsity, Girls - Game University High School - Away
+Start:       2017-01-20 23:59:00-08:00
+End:         2017-01-20 23:59:00-08:00
+Location:    San Francisco University High School
+
+Summary:     Basketball - Varsity, Boys - Game OMI (Oakland Military Institute) - Home
+Start:       2017-01-21 14:00:00-08:00
+End:         2017-01-21 14:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Soccer - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2017-01-24 15:15:00-08:00
+End:         2017-01-24 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Head-Royce - Away
+Start:       2017-01-24 16:00:00-08:00
+End:         2017-01-24 16:00:00-08:00
+Location:    Head-Royce
+
+Summary:     Soccer - Varsity, Girls - Game San Francisco University High School - Home
+Start:       2017-01-24 23:59:00-08:00
+End:         2017-01-24 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - JV, Girls - Game San Francisco University High School - Home
+Start:       2017-01-27 15:15:00-08:00
+End:         2017-01-27 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game San Francisco University High School - Away
+Start:       2017-01-27 15:30:00-08:00
+End:         2017-01-27 15:30:00-08:00
+Location:    San Francisco University High School
+
+Summary:     Soccer - Varsity, Girls - Game Marin Academy - Away
+Start:       2017-01-27 16:00:00-08:00
+End:         2017-01-27 16:00:00-08:00
+Location:    Marin Academy
+
+Summary:     Basketball - JV, Girls - Game San Francisco University High School - Away
+Start:       2017-01-27 17:30:00-08:00
+End:         2017-01-27 17:30:00-08:00
+Location:    San Francisco University High School
+
+Summary:     Basketball - Varsity, Boys - Game University High School - Home
+Start:       2017-01-27 17:30:00-08:00
+End:         2017-01-27 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game San Francisco University High School - Home
+Start:       2017-01-27 17:30:00-08:00
+End:         2017-01-27 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Boys - Game San Francisco University High School - Away
+Start:       2017-01-27 18:30:00-08:00
+End:         2017-01-27 18:30:00-08:00
+Location:    San Francisco University High School
+
+Summary:     Basketball - Frosh/Soph, Boys - Game St. Joseph's Notre Dame, Alameda - Away
+Start:       2017-01-28 16:00:00-08:00
+End:         2017-01-28 16:00:00-08:00
+Location:    St. Joseph Notre Dame High School
+
+Summary:     Basketball - JV, Boys - Game St. Joseph's Notre Dame, Alameda - Away
+Start:       2017-01-28 17:30:00-08:00
+End:         2017-01-28 17:30:00-08:00
+Location:    St. Joseph Notre Dame High School
+
+Summary:     Basketball - Varsity, Boys - Game St. Joseph's Notre Dame, Alameda - Away
+Start:       2017-01-28 19:00:00-08:00
+End:         2017-01-28 19:00:00-08:00
+Location:    St. Joseph Notre Dame High School
+
+Summary:     Soccer - Varsity, Girls - Game Head-Royce - Away
+Start:       2017-01-28 23:59:00-08:00
+End:         2017-01-28 23:59:00-08:00
+Location:    Head-Royce
+
+Summary:     Soccer - JV, Girls - Game Urban School of San Francisco - Home
+Start:       2017-01-30 15:30:00-08:00
+End:         2017-01-30 15:30:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Stuart Hall High School - Home
+Start:       2017-01-31 15:30:00-08:00
+End:         2017-01-31 15:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game Convent of the Sacred Heart - Away
+Start:       2017-01-31 16:00:00-08:00
+End:         2017-01-31 16:00:00-08:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Basketball - JV, Boys - Game Stuart Hall High School - Home
+Start:       2017-01-31 17:00:00-08:00
+End:         2017-01-31 17:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game Stuart Hall High School - Home
+Start:       2017-01-31 17:30:00-08:00
+End:         2017-01-31 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Convent of the Sacred Heart - Away
+Start:       2017-01-31 17:30:00-08:00
+End:         2017-01-31 17:30:00-08:00
+Location:    Convent of the Sacred Heart
+
+Summary:     Soccer - JV, Girls - Game Marin Academy - Home
+Start:       2017-02-01 15:15:00-08:00
+End:         2017-02-01 15:15:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - Varsity, Girls - Game St. Joseph's Notre Dame, Alameda - Home
+Start:       2017-02-02 23:59:00-08:00
+End:         2017-02-02 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Basketball - Frosh/Soph, Boys - Game Urban School of San Francisco - Away
+Start:       2017-02-03 16:00:00-08:00
+End:         2017-02-03 16:00:00-08:00
+Location:    Urban School of San Francisco
+
+Summary:     Basketball - JV, Boys - Game Urban School of San Francisco - Home
+Start:       2017-02-03 17:30:00-08:00
+End:         2017-02-03 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Urban School of San Francisco - Away
+Start:       2017-02-03 17:30:00-08:00
+End:         2017-02-03 17:30:00-08:00
+Location:    Urban School of San Francisco
+
+Summary:     Basketball - Varsity, Boys - Game Urban School of San Francisco - Away
+Start:       2017-02-03 19:00:00-08:00
+End:         2017-02-03 19:00:00-08:00
+Location:    Urban School of San Francisco
+
+Summary:     Soccer - JV, Girls - Game - Away
+Start:       2017-02-03 23:59:00-08:00
+End:         2017-02-03 23:59:00-08:00
+
+Summary:     Soccer - Varsity, Girls - Game Redwood Christian High School - Home
+Start:       2017-02-03 23:59:00-08:00
+End:         2017-02-03 23:59:00-08:00
+Location:    City College of San Francisco (Soccer/Lacrosse Field)
+
+Summary:     Soccer - Varsity, Girls - Game - TBD
+Start:       2017-02-08 23:59:00-08:00
+End:         2017-02-08 23:59:00-08:00
+
+Summary:     Basketball - JV, Boys - Game Marin Academy - Home
+Start:       2017-02-10 16:00:00-08:00
+End:         2017-02-10 16:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - JV, Girls - Game Marin Academy - Away
+Start:       2017-02-10 16:00:00-08:00
+End:         2017-02-10 16:00:00-08:00
+Location:    Marin Academy
+
+Summary:     Basketball - Varsity, Boys - Game Marin Academy - Home
+Start:       2017-02-10 17:30:00-08:00
+End:         2017-02-10 17:30:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Girls - Game Marin Academy - Away
+Start:       2017-02-10 17:30:00-08:00
+End:         2017-02-10 17:30:00-08:00
+Location:    Marin Academy
+
+Summary:     Soccer - Varsity, Girls - Game - TBD
+Start:       2017-02-10 23:59:00-08:00
+End:         2017-02-10 23:59:00-08:00
+Location:    Marin Academy
+
+Summary:     Basketball - JV, Girls - Game - Home
+Start:       2017-02-13 23:59:00-08:00
+End:         2017-02-13 23:59:00-08:00
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2017-02-15 23:59:00-08:00
+End:         2017-02-15 23:59:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2017-02-15 23:59:00-08:00
+End:         2017-02-15 23:59:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Basketball - Varsity, Boys - Game - TBD
+Start:       2017-02-18 23:59:00-08:00
+End:         2017-02-18 23:59:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Basketball - Varsity, Girls - Game - TBD
+Start:       2017-02-18 23:59:00-08:00
+End:         2017-02-18 23:59:00-08:00
+Location:    Kezar Stadium/Pavilion
+
+Summary:     Basketball - Varsity, Boys - Game - Away
+Start:       2017-02-24 19:00:00-08:00
+End:         2017-02-24 19:00:00-08:00
+Location:    Lick-Wilmerding High School Bothin Gymnasium
+
+Summary:     Basketball - Varsity, Boys - Game - Home
+Start:       2017-02-27 23:59:00-08:00
+End:         2017-02-27 23:59:00-08:00
+
+Summary:     Basketball - Varsity, Boys - Game Half Moon Bay High School - Home
+Start:       2017-03-09 19:00:00-08:00
+End:         2017-03-09 19:00:00-08:00
+
+

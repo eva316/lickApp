@@ -1,0 +1,70 @@
+
+<ion-view view-title="Events">
+  <ion-content class="background">
+      <div class="eventslist"><p>testing</p>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script type="text/javascript">
+            
+    $(document).ready(function() {
+        
+        var today = new Date();
+        var dd = today.getDate();
+        var mm = today.getMonth()+1;
+        var yyyy = today.getFullYear();
+
+        if(dd<10) {
+            dd='0'+dd
+        } 
+
+        if(mm<10) {
+            mm='0'+mm
+        } 
+
+        today = yyyy+'-'+mm+'-'+dd;
+        
+        var yesterday = yyyy+'-'+mm+'-'+ (dd - 1);
+        
+        var xhr;
+        
+        if (window.XMLHttpRequest) xhr = new XMLHttpRequest();  		
+
+        xhr.open('GET', 'cal.txt', false);
+        
+        xhr.onreadystatechange = function () {
+            
+            if (xhr.readyState==4 && xhr.status==200) {
+                
+                var text = xhr.responseText.split("Summary:");
+                
+                var ul = document.createElement("ul");
+                
+                document.body.appendChild(ul);
+
+                for (var i = 1; i <= text.length; i++){
+                    
+                    var li = document.createElement("li"); 
+                    
+                    li.className = "event";
+
+                    var a = document.createElement("a");
+                    
+                    if (text[i].search(today) != -1 && text[i].search(yesterday) == -1){
+                    
+                    a.innerHTML = text[i].slice(0, text[i].search("Start"));
+
+                    li.appendChild(a);
+                    
+                    ul.appendChild(li);
+                    }
+                }
+            }
+        }
+        
+        xhr.send();
+        
+    });
+            
+        </script>
+    </div>
+  </ion-content>
+</ion-view>
